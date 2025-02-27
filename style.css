@@ -65,3 +65,7 @@ section h2 {
 #tecnologia .erticles article a {
     background-color: deeppink;
 }
+h1 {
+    background-color: black;
+    text-align: center;
+}
